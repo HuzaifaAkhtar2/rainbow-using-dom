@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.line {
+    width: 100%;
+    height: calc(100vh / 7);
+}
